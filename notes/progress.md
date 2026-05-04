@@ -4,3 +4,4 @@
 - Chose pdfinfo as target direction
 - Designed fuzzing workflow
 - Preparing environment
+- Initial repository structure completed
