@@ -1,0 +1,15 @@
+# AFL++ output directories
+out/
+out_*/
+
+# Compiled binaries
+afl_cjson
+afl_tinyxml2
+test
+crash_test
+
+# System/editor files
+.DS_Store
+*.o
+*.so
+*.a
